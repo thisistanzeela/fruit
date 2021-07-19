@@ -40,4 +40,9 @@ h4{
     padding: 10px 15px;
     border-radius: 20px;
     margin: 10px 0;
+    font-weight: lighter;
+    display: inline-block;
+}
+p{
+    line-height: 1.5;
 }
